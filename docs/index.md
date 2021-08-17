@@ -1,7 +1,7 @@
 # Welcome to Sensorweb IoTTutorial Wiki
 
 ## Clustering and Classfication
-
+* [1D Convolutional Neural Network](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/1D_CNN.ipynb)
 
 ## Detection and Segmentation
 
