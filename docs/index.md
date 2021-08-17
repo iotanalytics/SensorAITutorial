@@ -7,13 +7,17 @@
 
 
 ### Prediction
-* [Distance Time Warping (DTW)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/DTW.ipynb)
+
 
 ### Preprocessing and Decomposition
 
 
 ### Regression and Characterization
-
+* [Distance Time Warping (DTW)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/DTW.ipynb)
+* [Matched Filter](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/matched_filter.ipynb)
+* [Spectral clustering](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/spectral_clustering.ipynb)
+* [peak finding](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/peak_finding.ipynb)
+* [Fingerpring and Similarity Thresholding(FAST)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/FAST.ipynb)
 
 
 
