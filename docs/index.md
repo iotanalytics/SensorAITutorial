@@ -15,7 +15,7 @@
 * [Spectral Clustering](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/SpectralClustering.ipynb)
 
 ## Detection and Segmentation
-
+* [ARIMA](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/ARIMA.ipynb)
 
 ## Prediction
 
