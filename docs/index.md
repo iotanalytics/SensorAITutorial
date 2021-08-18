@@ -15,7 +15,6 @@
 * [Spectral Clustering](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/SpectralClustering.ipynb)
 
 ## Detection and Segmentation
-* [ARIMA](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/ARIMA.ipynb)
 * [Anomaly_Detection_with_Autoencoder](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Anomaly_Detection_with_Autoencoder_.ipynb)
 * [CUSUM](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/CUSUM.ipynb)
 * [Changing_point_detection_with_ruptures](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Changing_point_detection_with_ruptures.ipynb)
@@ -28,6 +27,7 @@
 * [Support_Vector_Data_Description(SVDD)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Support_Vector_Data_Description.ipynb)
 
 ## Prediction
+* [ARIMA](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/ARIMA.ipynb)
 * [Mini_Batch_K Mean](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/prediction/Mini_Batch_Mean.ipynb)
 
 ## Preprocessing and Decomposition
