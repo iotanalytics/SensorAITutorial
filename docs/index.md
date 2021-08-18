@@ -29,6 +29,7 @@
 ## Prediction
 * [ARIMA](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/ARIMA.ipynb)
 * [Mini_Batch_K Mean](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/prediction/Mini_Batch_Mean.ipynb)
+* [LSTM](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/LSTM.ipynb)
 
 ## Preprocessing and Decomposition
 * [Fourier Transforms](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/FourierTransform.ipynb)
@@ -49,7 +50,6 @@
 * [Distance Time Warping (DTW)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/DTW.ipynb)
 * [Matched Filter](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/matched_filter.ipynb)
 * [Spectral clustering](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/spectral_clustering.ipynb)
-* [LSTM](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/LSTM.ipynb)
 * [peak finding](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/peak_finding.ipynb)
 * [Fingerpring and Similarity Thresholding(FAST)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/FAST.ipynb)
 
