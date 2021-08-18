@@ -18,10 +18,22 @@
 * [ARIMA](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/ARIMA.ipynb)
 
 ## Prediction
-
+* [Mini_Batch_K Mean](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/prediction/Mini_Batch_Mean.ipynb)
 
 ## Preprocessing and Decomposition
 * [Fourier Transforms](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/FourierTransform.ipynb)
+* [Signal Filter](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Signal_Filters.ipynb)
+* [Wavelet Denoising](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Wavelet_Denoising.ipynb)
+* [Multiscale_decomposation_with_1D_morphology_analysis](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Multiscale_decomposation_with_1D_morphology_analysis.ipynb)
+* [Singular_Spectrum_Analysis_(SSA)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Singular_Spectrum_Analysis_(SSA).ipynb)
+* [PCA](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/PCA.ipynb)
+* [Seasonality_Decomposition](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Seasonality_Decomposition.ipynb)
+* [Blind_source_separation](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Blind_source_separation.ipynb)
+* [Empirical_wavelet_transform_(EWT)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Empirical_wavelet_transform_(EWT).ipynb)
+* [EMD/EEMD/VMD](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/EMD_EEMD_vs_VMD.ipynb)
+* [Matrix_Profile](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Matrix_Profile.ipynb)
+* [Orthogonal_Matching_Pursuit](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Orthogonal_Matching_Pursuit.ipynb)
+
 
 ## Regression and Characterization
 * [Distance Time Warping (DTW)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/regression_and_characterization/DTW.ipynb)
