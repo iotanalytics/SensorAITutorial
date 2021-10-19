@@ -14,7 +14,7 @@
 * [Empirical_wavelet_transform_(EWT)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Empirical_wavelet_transform_(EWT).ipynb)
 * [EMD/EEMD/VMD](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/EMD_EEMD_vs_VMD.ipynb)
 * [Matrix_Profile](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Matrix_Profile.ipynb)
-* [Orthogonal_Matching_Pursuit](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Orthogonal_Matching_Pursuit.ipynb)
+<!-- * [Orthogonal_Matching_Pursuit](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/preprocessing_and_decomposition/Orthogonal_Matching_Pursuit.ipynb) -->
 
 
 ## Detection and Segmentation
