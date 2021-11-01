@@ -32,14 +32,14 @@
 
 ## Clustering and Classfication
 * [1D Convolutional Neural Network](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/1D_CNN.ipynb)
-[AdaBoost & XGBoost](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/AdaBoost_XGBoost.ipynb)
+* [AdaBoost & XGBoost](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/AdaBoost_XGBoost.ipynb)
 * [Early Classification](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/EarlyClassification.ipynb)
 * [Ensemble Classification](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/EnsembleClassification.ipynb)
 * [Gaussian Mixture Model](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/GMM.ipynb)
 * [K-Nearest Neighbors](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/KNN.ipynb)
 * [K-means](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/Kmeans.ipynb)
 * [K-shape](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/Kshape.ipynb)
-* [Learning-Discriminative-Virtual-Sequences for Time Series Classification](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/LDVS.ipynb)
+* [DBSCAN](https://github.com/iotanalytics/IoTTutorial/blob/89ed7dbca49e36a39886c379023041d2afb34763/code/clustering_and_classification/DBSCAN.ipynb)
 * [Random Forest Classifiers](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/RandomForrestClassifiers.ipynb)
 * [Support Vector Machine](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/SVM.ipynb)
 * [Spectral Clustering](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/SpectralClustering.ipynb)
