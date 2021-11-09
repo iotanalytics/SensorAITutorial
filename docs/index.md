@@ -37,6 +37,7 @@
 * [Early Classification](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/EarlyClassification.ipynb)
 * [Ensemble Classification](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/EnsembleClassification.ipynb)
 * [Gaussian Mixture Model](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/GMM.ipynb)
+* [Hierarchical Agglomerative Clustering](https://github.com/iotanalytics/IoTTutorial/blob/9b739958413cedc026600c83c0e266e3b6d13450/code/clustering_and_classification/HierarchicalClustering.ipynb)
 * [K-Nearest Neighbors](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/KNN.ipynb)
 * [K-means](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/Kmeans.ipynb)
 * [K-shape](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/clustering_and_classification/Kshape.ipynb)
