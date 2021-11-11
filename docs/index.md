@@ -20,8 +20,8 @@
 ## Detection and Segmentation
 * [Anomaly_Detection_with_Autoencoder](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Anomaly_Detection_with_Autoencoder_.ipynb)
 * [CUSUM](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/CUSUM.ipynb)
-* [ARIMA]
-(https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/ARIMA.ipynb)
+* [ARIMA](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/ARIMA.ipynb)
+
 * [Event_detection_and_segmentation_based_on_Standard_Deviation](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Event_detection_and_segmentation_based_on_Standard_Deviation.ipynb)
 * [FastICA](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/FastICA.ipynb)
 * [Isolation_Forests_For_Anomaly_Detection](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Isolation_Forests_For_Anomaly_Detection.ipynb)
