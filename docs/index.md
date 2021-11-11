@@ -20,14 +20,15 @@
 ## Detection and Segmentation
 * [Anomaly_Detection_with_Autoencoder](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Anomaly_Detection_with_Autoencoder_.ipynb)
 * [CUSUM](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/CUSUM.ipynb)
-* [Changing_point_detection_with_ruptures](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Changing_point_detection_with_ruptures.ipynb)
+* [ARIMA]
+(https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/ARIMA.ipynb)
 * [Event_detection_and_segmentation_based_on_Standard_Deviation](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Event_detection_and_segmentation_based_on_Standard_Deviation.ipynb)
 * [FastICA](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/FastICA.ipynb)
 * [Isolation_Forests_For_Anomaly_Detection](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Isolation_Forests_For_Anomaly_Detection.ipynb)
 * [Local_Outlier_Factor](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Local_Outlier_Factor.ipynb)
 * [One_class_SVM](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/One_class_SVM.ipynb)
 * [SST](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/SST.ipynb)
-* [Support_Vector_Data_Description(SVDD)](https://colab.research.google.com/github/iotanalytics/IoTTutorial/blob/main/code/detection_and_segmentation/Support_Vector_Data_Description.ipynb)
+
 
 
 ## Clustering and Classfication
