@@ -1,5 +1,5 @@
 # Sensor AI Tutorial
-This project is dedicated to building a complete tutorial of advanced signal processing methods only for time series data. Every method in it covers the introduction, theory, application, and handy code.
+This project is dedicated to building a tutorial of sensor data AI. Each method's description includes the introduction, theory, application, and code.
 
 ## Running the code
 
